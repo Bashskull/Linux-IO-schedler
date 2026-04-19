@@ -211,7 +211,7 @@ sudo python3 phase4_validate.py
 
 ---
 
-## Resume Bullets (what this project demonstrates)
+## (what this project demonstrates)
 
 - Benchmarked BFQ, Kyber, MQ-Deadline across mixed NVMe workloads — measured throughput (IOPS), P99 tail latency, and CPU overhead across isolation and interference scenarios
 - Profiled 8 tunable scheduler parameters under stress-tested workloads using `fio` and `/sys/block` kernel stats; identified configs reducing P99 tail latency by up to 97% for read-heavy workloads under interference
