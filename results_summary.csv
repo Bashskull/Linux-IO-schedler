@@ -1,0 +1,9 @@
+file,iops,p99_us
+W1_latency_bfq,914.254287,1466.368
+W1_latency_kyber,917.858214,1417.216
+W1_latency_mq-deadline,922.653867,1433.6
+W1_latency_none,921.503925,1449.984
+W2_interference_bfq,50.414333,69730.304
+W2_interference_kyber,21.93355,1233125.376
+W2_interference_mq-deadline,10.02084,994050.048
+W2_interference_none,2.173371,12549357.568
